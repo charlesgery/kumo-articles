@@ -1,7 +1,7 @@
 ---
-published: false
-title: 'You thought serverless was green? Here is how to really make it sustainable!'
-cover_image:
+published: true
+title: 'You thought serverless was green? Here is how to really make it sustainable! 🌱'
+cover_image: 'http://www.nasa.gov/sites/default/files/thumbnails/image/as17-148-22727_lrg.jpg'
 description: 'Description of the article'
 tags: greenit, aws, sustainability, serverless
 series:
