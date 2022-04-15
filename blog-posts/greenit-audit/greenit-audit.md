@@ -8,8 +8,6 @@ series:
 canonical_url:
 ---
 
-![Logo kumo](./assets/logo_kumo_carre.png 'Logo Kumo')
-
 **Serverless is an amazing way to do cloud computing.** It removes the hassle of managing the infrastructure of your app and lets you focus on what really matters: delivering value.
 
 Moreover, in regular cloud computing, **lots of resources are idle**. Servers are often running without any task to do. People don’t optimize the capacity of their servers relative to the workload they really have. With serverless, cloud providers have a way to **share resources between clients and optimize their use**. Your serverless app will scale easily and will only be running when your users need it. For instance, AWS will launch Lambda functions instances and run their code only when required.
