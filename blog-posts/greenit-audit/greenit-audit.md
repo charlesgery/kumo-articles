@@ -10,7 +10,6 @@ canonical_url:
 
 ![Logo kumo](./assets/logo_kumo_carre.png 'Logo Kumo')
 
-
 **Serverless is an amazing way to do cloud computing.** It removes the hassle of managing the infrastructure of your app and lets you focus on what really matters: delivering value.
 
 Moreover, in regular cloud computing, **lots of resources are idle**. Servers are often running without any task to do. People don’t optimize the capacity of their servers relative to the workload they really have. With serverless, cloud providers have a way to **share resources between clients and optimize their use**. Your serverless app will scale easily and will only be running when your users need it. For instance, AWS will launch Lambda functions instances and run their code only when required.
@@ -19,13 +18,11 @@ Moreover, in regular cloud computing, **lots of resources are idle**. Servers ar
 
 Because of that, **serverless is often considered greener than traditional applications in the cloud**.
 
-
 ## Is your serverless application perfectly sustainable?
 
 Going serverless is considered a sustainable solution to develop applications. **This is not a reason to be complacent**. You can certainly take action to improve the sustainability of your application.
 
-> *“Never settle for average.” ― **Steve Jobs***
-> 
+> \*“Never settle for average.” ― **Steve Jobs\***
 
 There are **many sustainability mistakes you can make** when developing a serverless application. For instance, you can:
 
@@ -53,4 +50,4 @@ The instructions and the audit are available **[here](https://www.notion.so/Sust
 
 If you have any questions or feedback to improve the audit, feel free to reach out to us !
 
-*Juliette Fournier & Charles Géry are software engineers at Kumo, serverless expertise by [Theodo](https://www.theodo.fr/)*
+_Juliette Fournier & Charles Géry are software engineers at Kumo, serverless expertise by [Theodo](https://www.theodo.fr/)_
