@@ -40,7 +40,7 @@ Monitoring your emissions is great, but we wanted to take the next step and **fi
 
 After taking the recommended actions, you should see your application emissions lower in your carbon monitoring dashboard! 🥳
 
-There’s more, by performing this audit and taking the associated actions, you will **make your application much more sober**, which can also **improve the performance and monthly cost** of your application.
+There’s more, by performing this audit and taking the associated actions, you will **make your application much soberer**, which can also **improve its performance and monthly cost**.
 
 The instructions and the audit are available **[here](https://m33.notion.site/Serverless-Sustainability-Audit-a36847289fd64339a60e40bc5aa63092)**.
 
