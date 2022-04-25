@@ -46,6 +46,6 @@ The instructions and the audit are available **[here](https://m33.notion.site/Se
 
 ![Audit screenshot](./assets/audit-screenshot.png 'Audit screenshot')
 
-If you have any questions or feedback to improve the audit, feel free to reach out to us !
+If you have any questions or feedback to improve the audit, feel free to reach out to us!
 
 _Juliette Fournier & Charles Géry are software engineers at Kumo, serverless expertise by [Theodo](https://www.theodo.fr/)_
